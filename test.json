@@ -7,6 +7,9 @@
     {
       "title": "idea two",
       "id" : 2
+    },
+    { "title" : "idea three",
+      "id" : 3
     }
   ]
 }
