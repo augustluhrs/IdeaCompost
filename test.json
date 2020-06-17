@@ -1,6 +1,6 @@
-{"ideas":
-  {"title" : "first idea",
-   "idnum: : 1},
+{
+  "ideas": [{"title" : "first idea",
+    "idnum: : 1},
   {"title" : "second idea",
-   "idnum" : 2}
+   "idnum" : 2}]
 }
